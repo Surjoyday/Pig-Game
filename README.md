@@ -2,7 +2,7 @@
 
 Welcome to the Pig Game! Challenge a friend and test your luck in this two-player dice game.
 
-[Play the Game]()
+[Play the Game](https://piggy-game-dice-roll.netlify.app/)
 
 ## Game Rules
 
